@@ -1,0 +1,8 @@
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGameConsole\bin\Debug\AdventureGameConsole.exe.config
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGameConsole\bin\Debug\AdventureGameConsole.exe
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGameConsole\bin\Debug\AdventureGameConsole.pdb
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGameConsole\obj\Debug\AdventureGameConsole.csprojResolveAssemblyReference.cache
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGameConsole\obj\Debug\AdventureGameConsole.exe
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGameConsole\obj\Debug\AdventureGameConsole.pdb
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGameConsole\bin\Debug\Engine.cs.dll
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGameConsole\bin\Debug\Engine.cs.pdb

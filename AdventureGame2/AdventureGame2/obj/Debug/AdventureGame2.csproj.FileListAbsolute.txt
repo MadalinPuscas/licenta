@@ -1,0 +1,12 @@
+c:\users\madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGame2\bin\Debug\AdventureGame2.exe.config
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\bin\Debug\AdventureGame2.exe
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\bin\Debug\AdventureGame2.pdb
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\bin\Debug\Engine.cs.dll
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\bin\Debug\Engine.cs.pdb
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.csprojResolveAssemblyReference.cache
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.Properties.Resources.resources
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.csproj.GenerateResource.Cache
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.exe
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.pdb
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.AdventureGame2.resources
+C:\Users\Madalin\documents\visual studio 2015\Projects\AdventureGame2\AdventureGame2\obj\Debug\AdventureGame2.TradingScreen.resources

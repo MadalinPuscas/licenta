@@ -1,0 +1,5 @@
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\Engine.cs\bin\Debug\Engine.cs.dll
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\Engine.cs\bin\Debug\Engine.cs.pdb
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\Engine.cs\obj\Debug\Engine.cs.dll
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\Engine.cs\obj\Debug\Engine.cs.pdb
+C:\Users\Madalin\Documents\Visual Studio 2015\Projects\AdventureGame2\Engine.cs\obj\Debug\Engine.cs.csprojResolveAssemblyReference.cache
